@@ -5,6 +5,7 @@
 ## Introduction
 Standard THREE JS video textures have their limitations. Although incredably versitile, the standard video texture object does not by default support source changes after initialization. Video sources must be fully loaded and ready to play before the texture can be rendered. This can cause issues when attempting to set video sources dynamically or when attempting to change sources. Our THREE JS video player object solves these issues and adds other functionality for easily playing an HTML5 video on a plane in a THREE JS scene.
 
+[View a demo of our video player object in action here!](https://snapp-development.github.io/three-video-player/)
 
 ---
 ## Video Player Object
@@ -169,5 +170,7 @@ To build the demo run the following NPM command in the demo's root directory.
 $ npm run build
 ```
 The demo will be compiled into the `docs` folder. This is done to support hosting on GitHub pages.  
+
+[This demo can be here.](https://snapp-development.github.io/three-video-player/)
 
 > The coffee video for the demo was sourced from COVERR. https://coverr.co/videos/coffee-machine-in-action-2BCJxAabQ1
