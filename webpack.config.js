@@ -15,7 +15,7 @@ module.exports = {
   // Configure Output
   output: {
     filename: 'demo.build.js',
-    path: path.resolve(__dirname, 'build'),
+    path: path.resolve(__dirname, 'docs'),
   },
   
   // Configure file loader
@@ -50,7 +50,7 @@ module.exports = {
     // Create index.html
     new HtmlWebpackPlugin({
       title: "THREE Video Player Object Demo",
-      filename: path.resolve(__dirname, "build/index.html"),
+      filename: path.resolve(__dirname, "docs/index.html"),
       minify: false
     })
   ]

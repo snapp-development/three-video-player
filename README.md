@@ -168,6 +168,6 @@ To build the demo run the following NPM command in the demo's root directory.
 ```
 $ npm run build
 ```
-The demo will be compiled into the `build` folder. 
+The demo will be compiled into the `docs` folder. This is done to support hosting on GitHub pages.  
 
 > The coffee video for the demo was sourced from COVERR. https://coverr.co/videos/coffee-machine-in-action-2BCJxAabQ1
