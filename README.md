@@ -171,6 +171,6 @@ $ npm run build
 ```
 The demo will be compiled into the `docs` folder. This is done to support hosting on GitHub pages.  
 
-[This demo can be here.](https://snapp-development.github.io/three-video-player/)
+[This demo can be found here.](https://snapp-development.github.io/three-video-player/)
 
 > The coffee video for the demo was sourced from COVERR. https://coverr.co/videos/coffee-machine-in-action-2BCJxAabQ1
