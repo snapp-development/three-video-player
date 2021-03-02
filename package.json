@@ -1,0 +1,31 @@
+{
+  "name": "three-video-player",
+  "version": "1.0.0",
+  "description": "An open source video player object for usage with THREE.js.",
+  "private": true,
+  "main": "demo.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapp-development/three-video-player.git"
+  },
+  "keywords": [],
+  "author": "Snapp Development LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapp-development/three-video-player/issues"
+  },
+  "homepage": "https://github.com/snapp-development/three-video-player#readme",
+  "dependencies": {
+    "three": "^0.125.2"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.0.0",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
